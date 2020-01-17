@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -rf dcmReceived/2*
+rm -rf dcmTemp/*
